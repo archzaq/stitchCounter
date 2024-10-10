@@ -15,4 +15,5 @@
 ![Simulator Screenshot - iPhone 15 Pro - 2024-10-10 at 16 52 33](https://github.com/user-attachments/assets/25f6a258-a3c2-40b4-b3b1-c3560d6bb6cd)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-10-10 at 16 52 40](https://github.com/user-attachments/assets/e1e045cf-32d5-4aba-970d-cb81273c0bb7)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-10-10 at 16 50 57](https://github.com/user-attachments/assets/bc647b84-70c6-4cf2-a562-24f00561246b)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-10 at 16 52 40](https://github.com/user-attachments/assets/e3c4765a-3487-4344-b350-dce5ee4ebb91)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-10 at 16 51 29](https://github.com/user-attachments/assets/39ae2d15-9739-48e4-b6bc-eb67c430a9ec)
+
